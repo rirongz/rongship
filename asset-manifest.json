@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/namerirong/rongship/main.css",
+    "main.js": "/namerirong/rongship/main.d9464e927d5c6c6fa607.bundle.js",
+    "main.css.map": "/namerirong/rongship/main.css.map",
+    "main.js.map": "/namerirong/rongship/main.d9464e927d5c6c6fa607.bundle.js.map",
+    "runtime~main.js": "/namerirong/rongship/runtime~main.d9464e927d5c6c6fa607.bundle.js",
+    "runtime~main.js.map": "/namerirong/rongship/runtime~main.d9464e927d5c6c6fa607.bundle.js.map",
+    "vendors~main.css": "/namerirong/rongship/vendors~main.css",
+    "vendors~main.js": "/namerirong/rongship/vendors~main.d9464e927d5c6c6fa607.bundle.js",
+    "vendors~main.css.map": "/namerirong/rongship/vendors~main.css.map",
+    "vendors~main.js.map": "/namerirong/rongship/vendors~main.d9464e927d5c6c6fa607.bundle.js.map",
+    "iframe.html": "/namerirong/rongship/iframe.html",
+    "precache-manifest.58fb976cfe4730f387c046c7949664b9.js": "/namerirong/rongship/precache-manifest.58fb976cfe4730f387c046c7949664b9.js",
+    "service-worker.js": "/namerirong/rongship/service-worker.js"
+  },
+  "entrypoints": [
+    "runtime~main.d9464e927d5c6c6fa607.bundle.js",
+    "vendors~main.css",
+    "vendors~main.d9464e927d5c6c6fa607.bundle.js",
+    "main.css",
+    "main.d9464e927d5c6c6fa607.bundle.js"
+  ]
+}
